@@ -1,0 +1,6 @@
+
+
+
+OPENROUTER_KEY = "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"
+
+
